@@ -1,0 +1,10 @@
+onupdate()
+{
+    if(distace > 300)
+    player moves
+    collide p1+2
+
+if (distance < 300)
+collide p1+2
+
+}
